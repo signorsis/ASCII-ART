@@ -1,0 +1,14 @@
+{
+  "name": "ascii_art2",
+  "version": "1.0.0",
+  "description": "Image to ASCII converter",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sisay",
+  "license": "ISC",
+  "dependencies": {
+    "jimp": "^0.22.12"
+  }
+}
