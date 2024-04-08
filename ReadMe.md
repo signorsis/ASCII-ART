@@ -2,7 +2,7 @@
  This is A small node js program with a script to convert your images to Ascii Art.
 
 ## JIMP IMAGE PROCESSING LIBRARY
- JIMP(JAVASCRIPT IMAGE MAINIPULATION PROGRAM) is used to resize and manipulate an image.
+ JIMP(JavaScript Image Manipulation Program) is used to resize and manipulate an image.
 
 # HOW TO USE
 1.COPY THE CODE INSIDE Ascii.js INTO A NODE JS FILE. 
